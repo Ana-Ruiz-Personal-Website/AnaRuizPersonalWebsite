@@ -1,1 +1,3 @@
 # AnaRuizPersonalWebsite
+
+Resilience, Growth, Authenticity
