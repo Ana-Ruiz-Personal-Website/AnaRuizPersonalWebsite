@@ -1,0 +1,19 @@
+.picture {
+   display: grid;
+   float: left;
+   width: 300px;
+}
+.mission {
+    text-align: center;
+    background-color: white;
+    padding: 10px;
+}
+.quote {
+    text-align: center;
+    font-size: xx-large;
+    padding: 50px;
+}
+.words {
+    font-size: xx-large;
+    padding: 10px;
+}
