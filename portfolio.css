@@ -1,0 +1,29 @@
+img {
+    float:left;
+    width: 400px;
+    height: 300px;
+    padding: 10px;
+}
+.images {
+    position: absolute;
+    display: grid;
+}
+.image1 {
+    z-index: 1;
+}
+.image2 {
+    float: left;
+}
+.projects {
+    background-color: aliceblue;
+    margin-left: 50ch;
+}
+.project-1 {
+    border-bottom-style: ridge;
+}
+.project-2 {
+    border-bottom-style: ridge;
+}
+.project-3 {
+    border-bottom-style: ridge;
+}

@@ -1,0 +1,35 @@
+
+* {
+    box-sizing: border-box;
+    box-shadow: inset;
+}
+body {
+    background-color:lightslategray;
+}
+.header-banner {
+    color: azure;
+    height: 30px;
+}
+.name {
+    float: right;
+    font-size: xx-large;
+    color: black;
+}
+.links a:hover {
+    background-color: whitesmoke;
+}
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:cadetblue;
+    border-style: outset;
+    background-color:whitesmoke;
+}   
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+h3 {
+    font-family:Arial, Helvetica, sans-serif;
+    color:white;
+    font-size: x-large;
+}
