@@ -1,17 +1,22 @@
+.wrapper {
+    display: grid;
+} 
 .picture {
-   display: grid;
-   float: left;
-   width: 300px;
+    grid-row: 1;
 }
 .mission {
+    grid-column: 2;
     text-align: center;
     background-color: white;
-    padding: 10px;
+    margin: 20px;
+    margin-bottom: 20em;
+    margin-right: 10em;
 }
 .quote {
     text-align: center;
     font-size: xx-large;
     padding: 50px;
+    margin-left: 200px;
 }
 .words {
     font-size: xx-large;
