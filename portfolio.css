@@ -1,6 +1,6 @@
 img {
     float:left;
-    width: 400px;
+    width: 300px;
     height: 300px;
     padding: 10px;
 }
@@ -14,16 +14,25 @@ img {
 .image2 {
     float: left;
 }
+.portfolio-h1 {
+    font-size: xxx-large;
+}
 .projects {
     background-color: aliceblue;
-    margin-left: 50ch;
+    margin-left: 35ch;
+    font-size: larger;
 }
 .project-1 {
     border-bottom-style: ridge;
 }
 .project-2 {
     border-bottom-style: ridge;
+    margin-top: 10ch;
 }
 .project-3 {
     border-bottom-style: ridge;
+    margin-top: 10ch;
+}
+.project-4 {
+    margin-top: 10ch;
 }

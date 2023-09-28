@@ -1,22 +1,29 @@
-.reading {
+
+.hobbies {
+    display: flex;
+}
+.film-books {
     background-color: aliceblue;
-}
-section > img {
-    width: 250px;
-}
-section:nth-of-type(odd) > img {
-    float: right;
-    margin: 0 10px 10px 0;
-}
-section:nth-of-type(even) > img {
-    float: left;
-    margin: 0 10px 10px 0;
-}
-.weightlifting {
-    background-color: aliceblue;
-    text-align: right;
+    text-align: left;
     font-size: large;
+    margin: 5px;
 }
-.impersonator {
+.strength-training {
     background-color: aliceblue;
+    margin: 5px;
+}
+.open-mic {
+    background-color: aliceblue;
+    margin: 5px;
+}
+.pictures {
+    display: flex;
+    gap: 10px;
+}
+.about-h3 {
+    color: black;
+    background-color: aliceblue;
+}
+.about-h1 {
+    font-size: xxx-large;
 }
