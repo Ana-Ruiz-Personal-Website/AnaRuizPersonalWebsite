@@ -1,0 +1,11 @@
+.form {
+    position: sticky;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: aliceblue;
+}
+header {
+    background-color: aliceblue;
+    font-size: x-large;
+}
